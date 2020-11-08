@@ -1,7 +1,7 @@
 # Jarod Guerrero
-# CSS 436 A
+# CSS FourThreeSix A
 # 11/1/2019
-# Program 3 - AWS Backup Client
+# AWS Backup Client
 #
 # Creates a backup of either the current working or inputted directories
 # to a user's AWS S3 bucket. Uses credentials stored in the AWS CLI configuration.
